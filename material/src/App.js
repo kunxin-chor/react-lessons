@@ -28,7 +28,7 @@ function App(props) {
    const classes = useStyles();
   return (
     <div>
-      <Container maxWidth="xl">
+      <Container maxWidth="md">
         <Paper elevation={3}>
           <AppBar color="primary" position="static">
             <Toolbar>
